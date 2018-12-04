@@ -1,0 +1,73 @@
+﻿  main.cpp
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(155): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(156): error C2146: 语法错误: 缺少“;”(在标识符“cin”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(168): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(169): error C2143: 语法错误: 缺少“;”(在“for”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(171): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(172): error C2146: 语法错误: 缺少“;”(在标识符“i”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(268): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(271): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(272): error C2146: 语法错误: 缺少“;”(在标识符“trieSort”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(273): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(274): error C2146: 语法错误: 缺少“;”(在标识符“allTrieSort”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(308): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(309): error C2143: 语法错误: 缺少“;”(在“continue”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(320): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(321): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(387): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(438): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(459): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(460): error C2146: 语法错误: 缺少“;”(在标识符“cin”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(473): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(474): error C2146: 语法错误: 缺少“;”(在标识符“cin”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(477): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(478): error C2146: 语法错误: 缺少“;”(在标识符“cin”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(498): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(499): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(520): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(521): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(550): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(551): error C2146: 语法错误: 缺少“;”(在标识符“bigDataPlus”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(552): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(553): error C2146: 语法错误: 缺少“;”(在标识符“bigDataMul”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(584): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(603): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(604): error C2146: 语法错误: 缺少“;”(在标识符“getline”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(606): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(607): error C2146: 语法错误: 缺少“;”(在标识符“reverseStr”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(635): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(636): error C2146: 语法错误: 缺少“;”(在标识符“cin”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(638): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(639): error C2146: 语法错误: 缺少“;”(在标识符“cin”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(640): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(641): error C2146: 语法错误: 缺少“;”(在标识符“leftRotateStr”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(656): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(677): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(679): error C2146: 语法错误: 缺少“;”(在标识符“cin”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(705): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(740): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(741): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(745): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(773): error C2017: 非法的转义序列
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(773): error C2146: 语法错误: 缺少“;”(在标识符“n”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(773): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(773): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(774): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(780): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(781): error C2146: 语法错误: 缺少“;”(在标识符“cin”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(810): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(832): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(833): error C2146: 语法错误: 缺少“;”(在标识符“cin”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(854): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(855): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(861): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(867): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(868): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(879): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(905): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(918): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(919): error C2146: 语法错误: 缺少“;”(在标识符“cin”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(922): error C2001: 常量中有换行符
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(923): error C2146: 语法错误: 缺少“;”(在标识符“cin”的前面)
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(945): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据

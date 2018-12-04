@@ -1,0 +1,13 @@
+﻿  main.cpp
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(241): warning C4101: “n”: 未引用的局部变量
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(413): warning C4018: “<”: 有符号/无符号不匹配
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(415): warning C4018: “<”: 有符号/无符号不匹配
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(425): warning C4018: “<”: 有符号/无符号不匹配
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(619): warning C4018: “>”: 有符号/无符号不匹配
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(704): warning C4101: “i”: 未引用的局部变量
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(809): warning C4101: “j”: 未引用的局部变量
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(854): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(860): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+s:\algorithm\interview\字符串问题\字符串问题\main.cpp(215): warning C4715: “isMatch”: 不是所有的控件路径都返回值
+  字符串问题.vcxproj -> S:\algorithm\Interview\字符串问题\Debug\字符串问题.exe
+  字符串问题.vcxproj -> S:\algorithm\Interview\字符串问题\Debug\字符串问题.pdb (Partial PDB)
