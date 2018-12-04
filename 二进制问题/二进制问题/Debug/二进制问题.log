@@ -1,0 +1,9 @@
+﻿  main.cpp
+s:\algorithm\interview\二进制问题\二进制问题\main.cpp(98): warning C4101: “tmp”: 未引用的局部变量
+s:\algorithm\interview\二进制问题\二进制问题\main.cpp(158): warning C4018: “<”: 有符号/无符号不匹配
+s:\algorithm\interview\二进制问题\二进制问题\main.cpp(165): warning C4018: “<”: 有符号/无符号不匹配
+s:\algorithm\interview\二进制问题\二进制问题\main.cpp(173): warning C4018: “<”: 有符号/无符号不匹配
+s:\algorithm\interview\二进制问题\二进制问题\main.cpp(177): warning C4018: “<”: 有符号/无符号不匹配
+s:\algorithm\interview\二进制问题\二进制问题\main.cpp(183): warning C4101: “tmp”: 未引用的局部变量
+  二进制问题.vcxproj -> S:\algorithm\Interview\二进制问题\Debug\二进制问题.exe
+  二进制问题.vcxproj -> S:\algorithm\Interview\二进制问题\Debug\二进制问题.pdb (Partial PDB)

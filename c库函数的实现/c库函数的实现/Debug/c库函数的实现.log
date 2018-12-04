@@ -1,0 +1,5 @@
+﻿  main.cpp
+s:\algorithm\interview\c库函数的实现\c库函数的实现\main.cpp(21): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+  c库函数的实现.vcxproj -> S:\algorithm\Interview\c库函数的实现\Debug\c库函数的实现.exe
+  c库函数的实现.vcxproj -> S:\algorithm\Interview\c库函数的实现\Debug\c库函数的实现.pdb (Partial PDB)

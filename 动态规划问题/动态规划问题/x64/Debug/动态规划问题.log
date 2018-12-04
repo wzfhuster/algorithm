@@ -1,0 +1,10 @@
+﻿  main.cpp
+f:\算法\动态规划问题\动态规划问题\main.cpp(77): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\算法\动态规划问题\动态规划问题\main.cpp(175): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\算法\动态规划问题\动态规划问题\main.cpp(219): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\算法\动态规划问题\动态规划问题\main.cpp(256): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\算法\动态规划问题\动态规划问题\main.cpp(293): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\算法\动态规划问题\动态规划问题\main.cpp(315): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\算法\动态规划问题\动态规划问题\main.cpp(366): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\算法\动态规划问题\动态规划问题\main.cpp(424): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  动态规划问题.vcxproj -> F:\算法\动态规划问题\x64\Debug\动态规划问题.exe

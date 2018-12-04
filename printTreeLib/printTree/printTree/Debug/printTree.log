@@ -1,0 +1,6 @@
+﻿  printTree.cpp
+s:\algorithm\printtreelib\printtree\printtree\printtree.cpp(25): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+s:\algorithm\printtreelib\printtree\printtree\printtree.cpp(53): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+s:\algorithm\printtreelib\printtree\printtree\printtree.cpp(54): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+s:\algorithm\printtreelib\printtree\printtree\printtree.cpp(55): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  printTree.vcxproj -> S:\algorithm\printTreeLib\printTree\Debug\printTree.lib
